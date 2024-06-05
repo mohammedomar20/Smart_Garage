@@ -1,4 +1,4 @@
-# Smart_Garage
+
 project description:
 
 1- gate system consists of two IR sensors and a servo motor .. and it doesn't open when the places are all full
