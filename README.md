@@ -1,4 +1,4 @@
-Smart Garage 
+# Smart-Garage 
 This repository contains the code and schematics for an Arduino-based smart garage system. The system automates parking management, monitors temperature, and adjusts lighting based on day/night conditions.
 
 Features:
